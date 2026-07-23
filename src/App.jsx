@@ -3,6 +3,7 @@ import Hero from "./componets/Hero";
 import Menu from "./componets/Menu";
 import About from "./componets/About";
 import Contact from "./componets/Contact";
+import Footer from "./componets/Footer";
 function App() {
   return (
     <div className="min-h-screen bg-black text-white">
@@ -11,6 +12,7 @@ function App() {
       <Menu />
       <About/>
       <Contact/>
+      <Footer/>
       
     </div>
   );
