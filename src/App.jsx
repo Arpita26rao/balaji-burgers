@@ -1,8 +1,8 @@
 import Navbar from "./componets/Navbar";
 import Hero from "./componets/Hero";
-import Menu from "./componets/Menu";
-import About from "./componets/About";
-import Contact from "./componets/Contact";
+import Menu from "./componets/MenuSection";
+import About from "./componets/AboutSection";
+import Contact from "./componets/ContactSection";
 import Footer from "./componets/Footer";
 function App() {
   return (
